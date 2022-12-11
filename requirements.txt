@@ -1,4 +1,4 @@
-pickle
+pickle==0.1.1
 streamlit==1.15.2 
-streamlit_option_menu 
+streamlit_option_menu==0.3.2
 PIL 
