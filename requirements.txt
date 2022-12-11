@@ -1,5 +1,4 @@
-
-import pickle
-import streamlit 
-from streamlit_option_menu 
-from PIL import Image
+pickle
+streamlit==1.15.2 
+streamlit_option_menu 
+PIL 
